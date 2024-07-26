@@ -46,7 +46,7 @@ This project involves designing and implementing a SQL-based database to streaml
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/clothes-shop-database.git
+    git clone https://github.com/abdelrahman-abozarifa04/clothes-shop-database.git
     ```
 
 2. **Navigate to the project directory:**
